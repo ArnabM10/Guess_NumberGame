@@ -2,7 +2,7 @@
  
 
 
- <p>It is Number Guessing Game using Html, CSS, & JavaScript</p>
+ <p>Number Guessing Game using Html, CSS, & JavaScript</p>
 
 
 
